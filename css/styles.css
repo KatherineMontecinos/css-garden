@@ -1,5 +1,4 @@
 #css-zen-garden {
-	/*background-color: rgb(31, 31, 31);*/
 	line-height: 1.88889;
 	background-image: url("https://images4.alphacoders.com/292/292208.jpg");
 }
@@ -14,8 +13,7 @@ h1 {
 h2 {
 	font-size: 35px;
 	text-align: center;
-	color:rgb(12, 215, 32);
-	
+	color:rgb(12, 215, 32);	
 }
 
 a {
@@ -28,23 +26,19 @@ p {
 	text-align: justify center;
 	margin-top: 0;
 	font-family: georgia;
-
 }
 
 h3 {
-	color:black;
+	color:rgb(12, 215, 32);
 	font: italic;
 	text-align: center;
 	text-transform: uppercase;
 	border-bottom-width: 7px;
-	border-bottom-style: double;
-
-	
+	border-bottom-style: double;	
 }
 
 .page-wrapper {
 	background: 7
-	
 }
 
 
@@ -53,8 +47,7 @@ h3 {
 	width: 700px;
 	text-align: justify;
 	float: center;
-	margin:2rem auto;
-	
+	margin:2rem auto;	
 }
 
 .summary p {
@@ -62,12 +55,12 @@ h3 {
 	color: black;
 	font-family: georgia;
 	font-size: 20px;
-
+	font-weight: bold;
 }
 
 .preamble {
 	text-align: center;
-	border-color: yellow;
+	border-color: black;
 	border-width: 5px;
 	border-style: solid; 	
 	border-spacing: 30px;
@@ -75,12 +68,12 @@ h3 {
 	padding:15px;
 	margin: 2rem auto;
 	border-radius: 40px;
-
+	background-color: rgba(31,31,31, 0.8);
 }
 
 .explanation {
 	text-align: center;
-	border-color: yellow;
+	border-color: black;
 	border-width: 5px;
 	border-style: solid; 	
 	border-spacing: 30px;
@@ -88,11 +81,12 @@ h3 {
 	padding: 15px;
 	margin: 2rem auto;
 	border-radius: 40px;
+	background-color: rgba(31,31,31, 0.8);
 }
 
 .participation {
 	text-align: center;
-	border-color: yellow;
+	border-color: black;
 	border-width: 5px;
 	border-style: solid; 	
 	border-spacing: 30px;
@@ -100,11 +94,12 @@ h3 {
 	padding: 15px;
 	margin: 2rem auto;
 	border-radius: 40px;
+	background-color: rgba(31,31,31, 0.8);
 }
 
 .benefits {
 	text-align: center;
-	border-color: yellow;
+	border-color: black;
 	border-width: 5px;
 	border-style: solid; 	
 	border-spacing: 30px;
@@ -112,11 +107,12 @@ h3 {
 	padding: 15px;
 	margin: 2rem auto;
 	border-radius: 40px;
+	background-color: rgba(31,31,31, 0.8);
 }
 
 .requirements {
 	text-align: center;
-	border-color: yellow;
+	border-color: black;
 	border-width: 5px;
 	border-style: solid; 	
 	border-spacing: 30px;
@@ -124,11 +120,12 @@ h3 {
 	padding: 15px;
 	margin: 2rem auto;
 	border-radius: 40px;
+	background-color: rgba(31,31,31, 0.8);
 }
 
 .design-selection {
 	text-align: center;
-	border-color: yellow;
+	border-color: black;
 	border-width: 5px;
 	border-style: solid; 	
 	border-spacing: 30px;
@@ -136,13 +133,12 @@ h3 {
 	padding: 15px;
 	border-radius: 40px;
 	float: left;
-
-
+	background-color: rgba(31,31,31, 1);
 }
 
 .design-archives {
 	text-align: center;
-	border-color: yellow;
+	border-color: black;
 	border-width: 5px;
 	border-style: solid; 	
 	border-spacing: 30px;
@@ -151,12 +147,12 @@ h3 {
 	border-radius: 40px;
 	float: right;
 	height: 329px;
-
+	background-color: rgba(31,31,31, 1);
 }
 
 .zen-resources {
 	text-align: center;
-	border-color: yellow;
+	border-color: black;
 	border-width: 5px;
 	border-style: solid; 	
 	border-spacing: 30px;
@@ -165,8 +161,7 @@ h3 {
 	border-radius: 40px;
 	margin: 2rem auto;
 	height: 329px;
-
-
+	background-color: rgba(31,31,31, 1);
 }
 
 footer {
@@ -178,5 +173,5 @@ footer {
 	width: 800px;
 	padding: 15px;
 	margin: 2rem auto;
-
+	background-color: rgba(31,31,31, 0.8);
 }
