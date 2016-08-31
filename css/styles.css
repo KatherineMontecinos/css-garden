@@ -1,0 +1,182 @@
+#css-zen-garden {
+	/*background-color: rgb(31, 31, 31);*/
+	line-height: 1.88889;
+	background-image: url("https://images4.alphacoders.com/292/292208.jpg");
+}
+
+h1 {
+	font-size: 50px;
+	font-family: georgia; 
+	text-align: center; 
+	color: green; 
+}
+
+h2 {
+	font-size: 35px;
+	text-align: center;
+	color:rgb(12, 215, 32);
+	
+}
+
+a {
+	color: violet;
+}
+
+
+p {
+	color: white;
+	text-align: justify center;
+	margin-top: 0;
+	font-family: georgia;
+
+}
+
+h3 {
+	color:black;
+	font: italic;
+	text-align: center;
+	text-transform: uppercase;
+	border-bottom-width: 7px;
+	border-bottom-style: double;
+
+	
+}
+
+.page-wrapper {
+	background: 7
+	
+}
+
+
+.summary {
+	
+	width: 700px;
+	text-align: justify;
+	float: center;
+	margin:2rem auto;
+	
+}
+
+.summary p {
+	text-align: center;
+	color: black;
+	font-family: georgia;
+	font-size: 20px;
+
+}
+
+.preamble {
+	text-align: center;
+	border-color: yellow;
+	border-width: 5px;
+	border-style: solid; 	
+	border-spacing: 30px;
+	width: 800px;
+	padding:15px;
+	margin: 2rem auto;
+	border-radius: 40px;
+
+}
+
+.explanation {
+	text-align: center;
+	border-color: yellow;
+	border-width: 5px;
+	border-style: solid; 	
+	border-spacing: 30px;
+	width: 800px;
+	padding: 15px;
+	margin: 2rem auto;
+	border-radius: 40px;
+}
+
+.participation {
+	text-align: center;
+	border-color: yellow;
+	border-width: 5px;
+	border-style: solid; 	
+	border-spacing: 30px;
+	width: 800px;
+	padding: 15px;
+	margin: 2rem auto;
+	border-radius: 40px;
+}
+
+.benefits {
+	text-align: center;
+	border-color: yellow;
+	border-width: 5px;
+	border-style: solid; 	
+	border-spacing: 30px;
+	width: 800px;
+	padding: 15px;
+	margin: 2rem auto;
+	border-radius: 40px;
+}
+
+.requirements {
+	text-align: center;
+	border-color: yellow;
+	border-width: 5px;
+	border-style: solid; 	
+	border-spacing: 30px;
+	width: 800px;
+	padding: 15px;
+	margin: 2rem auto;
+	border-radius: 40px;
+}
+
+.design-selection {
+	text-align: center;
+	border-color: yellow;
+	border-width: 5px;
+	border-style: solid; 	
+	border-spacing: 30px;
+	width: 390px;
+	padding: 15px;
+	border-radius: 40px;
+	float: left;
+
+
+}
+
+.design-archives {
+	text-align: center;
+	border-color: yellow;
+	border-width: 5px;
+	border-style: solid; 	
+	border-spacing: 30px;
+	width: 390px;
+	padding: 15px;
+	border-radius: 40px;
+	float: right;
+	height: 329px;
+
+}
+
+.zen-resources {
+	text-align: center;
+	border-color: yellow;
+	border-width: 5px;
+	border-style: solid; 	
+	border-spacing: 30px;
+	width: 420px;
+	padding: 15px;
+	border-radius: 40px;
+	margin: 2rem auto;
+	height: 329px;
+
+
+}
+
+footer {
+	text-align: center;
+	border-color: rgb(12,215,32);
+	border-width: 5px;
+	border-style: solid; 	
+	border-spacing: 30px;
+	width: 800px;
+	padding: 15px;
+	margin: 2rem auto;
+
+}
